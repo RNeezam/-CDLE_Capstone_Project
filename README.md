@@ -13,7 +13,8 @@ Classes:
           Proton_X70
           Perodua_Aruz_1.5AV
           
-          
+Need to get weights from https://drive.google.com/drive/folders/1dYBUwiqhS2UgXU381nahRtKESWHctvt1?usp=sharing, place 1 inside the CarBrandDetection folder, 3000 is 
+recommended.         
 Need to install/implement opencv to use
 
 Methodology: Used Darknet Yolov4 on seperate file on colab to create training weights for detection, then use python OpenCV library to run object detection.
