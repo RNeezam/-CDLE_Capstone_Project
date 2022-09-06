@@ -1,4 +1,4 @@
-# -CDLE_Capstone_Project
+# CDLE_Capstone_Project
 Car Brand Detection for CAIP
 A simple deep learning car brand identifier using Yolov4
 
