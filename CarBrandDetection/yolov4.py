@@ -19,15 +19,14 @@ net.setPreferableTarget(cv.dnn.DNN_TARGET_CUDA_FP16)
 model = cv.dnn_DetectionModel(net)
 model.setInputParams(size=(416, 416), scale=1/255, swapRB=True)
 
-# read image
-cap = cv.imshow("/images/ativa_h.jpg")
+# if not connected with gpu, very slow
 
 # read webcam
 #cap = cv.VideoCapture(0)
 
 # read video
 #cap = cv.VideoCapture('perodua_aruz_1.5AV.mp4')
-#cap = cv.VideoCapture('perodua_ativa_h.mp4')
+cap = cv.VideoCapture('perodua_ativa_h.mp4')
 #cap = cv.VideoCapture('proton_x50.mp4')
 #cap = cv.VideoCapture('proton_x70.mp4')
 
