@@ -45,5 +45,7 @@ Future development: More Dataset for further accuracy and training
 Group members: Rose Neezam bin Rose Zaidi, Robinson Loh Ying Sheng ,Nor Sakinah binti Mohd Yusoff ,Nur Farah Syakila binti Selamat
 
 References: https://medium.com/nerd-for-tech/yolov4-paper-summary-analysis-602dd584fa86
+
             https://github.com/AlexeyAB/darknet/ -for darknet
+            
             https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial -yolov4 on colab
