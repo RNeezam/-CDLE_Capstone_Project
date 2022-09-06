@@ -31,14 +31,19 @@ Network Description: YOLOv4 is a one-stage object detection model that improves 
 Model Traning : Trained for 8000 epochs but the accuracy began to waver and to avoid overfitting, the most optimal weight is 3000, with 4000 included for reference.
 
 average loss 0.235939, 0.219559, 0.001300 rate at 4000 epochs
+
 161 conv layers 		16 batches 		iou threshold = 50%
-mean average precision @ 0.50 = 0.920798	for conf_thresh = 0.25
-precision = 0.77	recall = 0.86		f1 score = 0.81
+
+mean average precision @ 0.50 = 0.920798	          for conf_thresh = 0.25
+
+precision = 0.77	          recall = 0.86		f1 score = 0.81
+
 detection count = 58, unique truth count = 35 
-Perodua_Ativa_H = 90.00%(ap)	tp =8 fp  =0
+
+Perodua_Ativa_H     = 90.00%(ap)        tp =8 fp  =0
 Proton_X50	= 93.04%(ap)	tp = 9 fp =8
-proton_x70	= 85.28%(ap)		tp = 6 fp =0
-perodua_Aruz_1.5AV =100%(ap)	tp = 7 fp =1
+proton_x70	= 85.28%(ap)	tp = 6 fp =0
+perodua_Aruz_1.5AV  =100%(ap)	          tp = 7 fp =1
 
 Future development: More Dataset for further accuracy and training
 
