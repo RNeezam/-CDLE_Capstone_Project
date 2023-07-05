@@ -49,6 +49,15 @@ proton_x70	= 85.28%(ap)	tp = 6 fp =0
 
 perodua_Aruz_1.5AV  =100%(ap)	          tp = 7 fp =1
 
+[Perodua Ativa H detect using video]
+![car-detect](https://github.com/RNeezam/CAIP_Capstone_Project-BrandCarDetection/assets/95480518/d837a711-b22a-42f8-ad3c-7c98d340ffd8)
+
+
+[Perodua Ativa H detect using camera]
+
+![car-detect2](https://github.com/RNeezam/CAIP_Capstone_Project-BrandCarDetection/assets/95480518/91b04839-f75f-4c79-be9c-69d088a8a30d)
+
+
 Future development: More Dataset for further accuracy and training
 
 Group members: Rose Neezam bin Rose Zaidi, Robinson Loh Ying Sheng ,Nor Sakinah binti Mohd Yusoff ,Nur Farah Syakila binti Selamat
